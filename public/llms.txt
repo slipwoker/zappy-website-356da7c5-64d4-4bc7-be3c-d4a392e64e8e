@@ -1,47 +1,64 @@
-# Business — Generative Engine Optimization Map
+# Brawl Kruk — Generative Engine Optimization Map
+
+> A fan or informational website dedicated to the mobile game Brawl Stars, featuring all character (brawler) images with interactive click functionality. Clicking on a character reveals their gadgets with images and descriptions, as well as information about their Star Power, Hypercharge, and Buffs. The site serves as a comprehensive visual reference guide for Brawl Stars players.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://brawl-kruk.zappy5.app
 ברוכים הבאים למדריך הוויזואלי המלא לברול סטארס! מידע על דמויות ברול סטארס, גאדג&#39;טים, סטאר פאוור והייפרצ&#39;ארג&#39; — הכל במקום אחד. היכנס עכשיו!
 
 ### ארכיון לוחמים
-https://example.com/brawlers
+https://brawl-kruk.zappy5.app/brawlers
 גלריית דמויות ברול סטארס עברית המלאה ביותר! לחץ על כל לוחם וגלה גאדג&#39;טים, באפים ברול סטארס עדכון, הייפרצ&#39;ארג&#39; ויכולות מיוחדות. כל המידע כאן!
 
 ### אודות המדריך
-https://example.com/about
+https://brawl-kruk.zappy5.app/about
 למה Brawl Kruk הוא המקום הטוב ביותר לקבל מידע על דמויות ברול סטארס? גלה את הסיפור מאחורי המדריך, המשימה שלנו וכיצד אנחנו עוזרים לשחקנים לנצח יותר!
 
 ### צור קשר
-https://example.com/contact
+https://brawl-kruk.zappy5.app/contact
 יש לך שאלה, הצעה לשיפור או מידע על באפים ברול סטארס עדכון שפספסנו? צור איתנו קשר עכשיו ונעדכן את המדריך יחד — כי הקהילה היא הכוח האמיתי!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://brawl-kruk.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://brawl-kruk.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://brawl-kruk.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About Brawl Kruk
+A fan or informational website dedicated to the mobile game Brawl Stars, featuring all character (brawler) images with interactive click functionality. Clicking on a character reveals their gadgets with images and descriptions, as well as information about their Star Power, Hypercharge, and Buffs. The site serves as a comprehensive visual reference guide for Brawl Stars players.
+
+## Services/Products
+- גלריית דמויות של Brawl Stars
+- מידע על גאדג'טים לכל דמות
+- מידע על סטאר פאוור
+- מידע על היייפרצ'ארג'
+- מידע על באפים
+
+## Target Audience
+שחקני Brawl Stars
+
+## Industry
+גיימינג / משחקי וידאו
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://brawl-kruk.zappy5.app/sitemap.xml
+- **Robots.txt**: https://brawl-kruk.zappy5.app/robots.txt
