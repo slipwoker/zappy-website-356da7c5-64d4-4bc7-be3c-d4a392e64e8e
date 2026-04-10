@@ -1,6 +1,4 @@
-# Brawl Kruk — Generative Engine Optimization Map
-
-> A fan or informational website dedicated to the mobile game Brawl Stars, featuring all character (brawler) images with interactive click functionality. Clicking on a character reveals their gadgets with images and descriptions, as well as information about their Star Power, Hypercharge, and Buffs. The site serves as a comprehensive visual reference guide for Brawl Stars players.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -40,22 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About Brawl Kruk
-A fan or informational website dedicated to the mobile game Brawl Stars, featuring all character (brawler) images with interactive click functionality. Clicking on a character reveals their gadgets with images and descriptions, as well as information about their Star Power, Hypercharge, and Buffs. The site serves as a comprehensive visual reference guide for Brawl Stars players.
-
-## Services/Products
-- גלריית דמויות של Brawl Stars
-- מידע על גאדג'טים לכל דמות
-- מידע על סטאר פאוור
-- מידע על היייפרצ'ארג'
-- מידע על באפים
-
-## Target Audience
-שחקני Brawl Stars
-
-## Industry
-גיימינג / משחקי וידאו
-
+## About Business
 ---
 
 # Additional Resources
