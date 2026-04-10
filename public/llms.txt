@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+ברוכים הבאים למדריך הוויזואלי המלא לברול סטארס! מידע על דמויות ברול סטארס, גאדג&#39;טים, סטאר פאוור והייפרצ&#39;ארג&#39; — הכל במקום אחד. היכנס עכשיו!
+
+### ארכיון לוחמים
+https://example.com/brawlers
+גלריית דמויות ברול סטארס עברית המלאה ביותר! לחץ על כל לוחם וגלה גאדג&#39;טים, באפים ברול סטארס עדכון, הייפרצ&#39;ארג&#39; ויכולות מיוחדות. כל המידע כאן!
+
+### אודות המדריך
+https://example.com/about
+למה Brawl Kruk הוא המקום הטוב ביותר לקבל מידע על דמויות ברול סטארס? גלה את הסיפור מאחורי המדריך, המשימה שלנו וכיצד אנחנו עוזרים לשחקנים לנצח יותר!
+
+### צור קשר
+https://example.com/contact
+יש לך שאלה, הצעה לשיפור או מידע על באפים ברול סטארס עדכון שפספסנו? צור איתנו קשר עכשיו ונעדכן את המדריך יחד — כי הקהילה היא הכוח האמיתי!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
